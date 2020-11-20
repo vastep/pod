@@ -1,0 +1,9 @@
+{
+    "workbench.editor.tabSizing": "shrink",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "window.zoomLevel": 2,
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.tree.indent": 24
+}
