@@ -1,0 +1,14 @@
+name: Events
+
+on:
+  pull_request:
+
+jobs:
+  test_schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: login
+        run: echo "${{ github.event.sender.login }}"
+      - name: id
+        run: echo "${{ github.event.sender.id }}"
+
