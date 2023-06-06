@@ -5,5 +5,8 @@
     "window.zoomLevel": 1,
     "workbench.activityBar.visible": false,
     "workbench.colorTheme": "Quiet Light",
-    "workbench.tree.indent": 24
+    "workbench.tree.indent": 24,
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#95ff0060",
+        "tab.hoverBackground": "#95ff001c"
 }
