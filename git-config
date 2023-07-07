@@ -1,0 +1,2 @@
+git config --global alias.c commit
+git config --global alias.s status
